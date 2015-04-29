@@ -35,7 +35,7 @@ are formally supported, but a large number of variant formats found
 in international reports are accepted."""
 
 setup(
-    name="metar",
+    name="python-metar",
     version="1.4.0",
     author="Tom Pollard",
     author_email="pollard@alum.mit.edu",
