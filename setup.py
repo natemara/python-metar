@@ -42,7 +42,6 @@ setup(
     url="http://python-metar.sourceforge.net/",
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
-    download_url="http://sourceforge.net/project/platformdownload.php?group_id=134052",
     license="MIT",
     packages=["metar"],
     platforms="Python 2.5 and later.",
